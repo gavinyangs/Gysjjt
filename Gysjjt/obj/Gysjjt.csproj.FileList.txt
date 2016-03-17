@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\美赢共业系统.exe
+bin\Debug\美赢共业系统.pdb
+obj\Debug\美赢共业系统.exe
+obj\Debug\美赢共业系统.pdb
